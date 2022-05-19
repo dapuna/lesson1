@@ -17,3 +17,4 @@ class cat:
     def damsge(self):
         self.ho -=25
 weywuxian = ("Masha")
+print(self.name,"hello")
