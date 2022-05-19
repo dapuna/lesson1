@@ -16,3 +16,4 @@ class cat:
         print(self.eat)
     def damsge(self):
         self.ho -=25
+weywuxian = ("Masha")
